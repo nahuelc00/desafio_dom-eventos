@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+.contenedor-cuadrado-rojo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  background-color: red;
+}
+
+.contenedor-cuadrado {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cuadrado {
+  margin: 5px;
+  background-color: white;
+  width: 100px;
+  height: 100px;
+}
